@@ -1,0 +1,11 @@
+.profile-photo {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+  body {
+    background-color: #72e6c3;
+  }
+  .content-justify{
+      text-align: justify;
+  }
